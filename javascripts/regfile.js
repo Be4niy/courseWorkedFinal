@@ -203,5 +203,5 @@ logoutButton.addEventListener('click', () => {
 
 
 externalLinkButton.addEventListener('click', () => {
-    window.location.href = '/htmlll/Index2.html'; 
+    window.location.href = '../htmlll/Index2.html'; 
 });
